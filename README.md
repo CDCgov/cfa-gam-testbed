@@ -21,7 +21,7 @@ New synthetic data must be clearly labeled and reviewed before merge. Synthetic 
 
 ## Project admins
 
-- Katie Gostic <{{uep6@cdc.gov}}> (CDC/IOD/ORR/CFA)
+- Katie Gostic <uep6@cdc.gov> (CDC/IOD/ORR/CFA)
 
 ## Disclaimers
 
